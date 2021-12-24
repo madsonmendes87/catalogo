@@ -182,3 +182,32 @@ div#fotoroupa17 figure img
     left: 66.5%;
     top: 1120px;
 }
+
+footer
+{
+    width: 100%;
+    height: 250px;
+}
+
+footer .main
+{
+    width: 100%;
+    height: 50px;
+    background-color:  lightgray;
+    position: absolute;       
+    padding: 20px 10px;  
+    top: 1500px;       
+}
+
+.footer social
+{
+    color: #e6e8fA;
+    height: 100%;
+    min-height: 100px;
+}
+
+.main .social img
+{
+    width: 32px;
+    height: 32px;
+}
