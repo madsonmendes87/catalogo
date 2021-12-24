@@ -19,7 +19,7 @@ div#fotoroupa1 figure img
     height: 300px;
     background-color: #e6e8fa;
     position: absolute;
-    left: 1%;
+    left: 2.5%;
     top: 320px;
 }
 
@@ -29,7 +29,7 @@ div#fotoroupa2 figure img
     height: 300px;
     background-color: #e6e8fa;
     position: absolute;
-    left: 17%;
+    left: 18.5%;
     top: 320px;
 }
 
@@ -39,6 +39,146 @@ div#fotoroupa3 figure img
     height: 300px;
     background-color: #e6e8fa;
     position: absolute;
-    left: 33%;
+    left: 34.5%;
     top: 320px;
+}
+
+div#fotoroupa4 figure img
+{
+    width: auto;
+    height: 300px;
+    background-color: #e6e8fa;
+    position: absolute;
+    left: 50.5%;
+    top: 320px;
+}
+
+div#fotoroupa5 figure img
+{
+    width: auto;
+    height: 300px;
+    background-color: #e6e8fa;
+    position: absolute;
+    left: 66.5%;
+    top: 320px;
+}
+
+div#fotoroupa6 figure img
+{
+    width: auto;
+    height: 300px;
+    background-color: #e6e8fa;
+    position: absolute;
+    left: 82.5%;
+    top: 320px;
+}
+
+div#fotoroupa7 figure img
+{
+    width: auto;
+    height: 300px;
+    background-color: #e6e8fa;
+    position: absolute;
+    left: 2.5%;
+    top: 720px;
+}
+
+div#fotoroupa8 figure img
+{
+    width: auto;
+    height: 300px;
+    background-color: #e6e8fa;
+    position: absolute;
+    left: 18.5%;
+    top: 720px;
+}
+
+div#fotoroupa9 figure img
+{
+    width: auto;
+    height: 300px;
+    background-color: #e6e8fa;
+    position: absolute;
+    left: 34.5%;
+    top: 720px;
+}
+
+div#fotoroupa10 figure img
+{
+    width: auto;
+    height: 300px;
+    background-color: #e6e8fa;
+    position: absolute;
+    left: 50.5%;
+    top: 720px;
+}
+
+div#fotoroupa11 figure img
+{
+    width: auto;
+    height: 300px;
+    background-color: #e6e8fa;
+    position: absolute;
+    left: 66.5%;
+    top: 720px;
+}
+
+div#fotoroupa12 figure img
+{
+    width: auto;
+    height: 300px;
+    background-color: #e6e8fa;
+    position: absolute;
+    left: 82.5%;
+    top: 720px;
+}
+
+div#fotoroupa13 figure img
+{
+    width: auto;
+    height: 300px;
+    background-color: #e6e8fa;
+    position: absolute;
+    left: 2.5%;
+    top: 1120px;
+}
+
+div#fotoroupa14 figure img
+{
+    width: auto;
+    height: 300px;
+    background-color: #e6e8fa;
+    position: absolute;
+    left: 18.5%;
+    top: 1120px;
+}
+
+div#fotoroupa15 figure img
+{
+    width: auto;
+    height: 300px;
+    background-color: #e6e8fa;
+    position: absolute;
+    left: 34.5%;
+    top: 1120px;
+}
+
+div#fotoroupa16 figure img
+{
+    width: auto;
+    height: 300px;
+    background-color: #e6e8fa;
+    position: absolute;
+    left: 50.5%;
+    top: 1120px;
+}
+
+div#fotoroupa17 figure img
+{
+    width: auto;
+    height: 300px;
+    background-color: #e6e8fa;
+    position: absolute;
+    left: 66.5%;
+    top: 1120px;
 }
