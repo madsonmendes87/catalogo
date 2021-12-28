@@ -2,15 +2,17 @@ body
 {
     margin: 0px;
     padding: 0px;
+      
 }
 
 div#bannersup
 {
     width: 100%;
-    height: 300px;
+    height: 200px;
     background-color: #e6e8fA;
     position: absolute;
-    top: 0px; 
+    padding: 20px 10px;
+    top: 0px;
 }
 
 div#fotoroupa1 figure img
@@ -186,14 +188,14 @@ div#fotoroupa17 figure img
 footer
 {
     width: 100%;
-    height: 250px;
+    height: 300px;
 }
 
 footer .main
 {
     width: 100%;
-    height: 50px;
-    background-color:  lightgray;
+    height: 40px;
+    background-color:#fffafa;
     position: absolute;       
     padding: 20px 10px;  
     top: 1500px;       
