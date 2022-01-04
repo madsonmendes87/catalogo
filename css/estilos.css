@@ -218,3 +218,33 @@ footer .main
     width: 32px;
     height: 32px;
 }
+
+@keyframes animacaoAlerta
+{
+    from 
+    {
+
+    }
+
+    to 
+    {
+
+    }
+}
+
+div#alerta
+{
+    width: 400px;
+    height: 55px;
+    background-color: #11ffee00;
+    text-align: center;
+    line-height: 10px;
+    position: fixed;
+    bottom: 20px;
+    right: 10px;
+    animation-name: animacaoAlerta;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+
+
+}
