@@ -221,14 +221,18 @@ footer .main
 
 @keyframes animacaoAlerta
 {
-    from 
+    0% 
     {
-
+        background-color: #11ffee00;
+        position: fixed;
+        opacity: 1;
     }
 
-    to 
+    100% 
     {
-
+        background-color: #11ffee00;
+        position: fixed;
+        opacity: 0;
     }
 }
 
