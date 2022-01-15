@@ -190,6 +190,16 @@ div#fotoroupa17 figure img
     top: 1120px;
 }
 
+div#fotoroupa18 figure img
+{
+    width: auto;
+    height: 300px;
+    background-color: #e6e8fa;
+    position: absolute;
+    left: 82.5%;
+    top: 1120px;
+}
+
 footer
 {
     width: 100%;
